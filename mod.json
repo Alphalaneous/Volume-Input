@@ -1,5 +1,5 @@
 {
-	"geode": "4.0.0-beta.1",
+	"geode": "4.2.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,7 +8,7 @@
 	},
 	"id": "alphalaneous.volume_input",
 	"name": "Volume Input",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "Alphalaneous",
 	"description": "Input the volume rather than just a slider.",
 	"dependencies": [
@@ -22,5 +22,8 @@
         "homepage": "https://linktr.ee/Alphalaneous",
         "source": "https://github.com/Alphalaneous/Volume-Input",
         "community": "https://discord.gg/Txn2CA5dHF"
-    }
+    },
+	"tags": [
+		"utility", "enhancement", "interface"
+	]
 }
